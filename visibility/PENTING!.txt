@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Dalam konsep OOP, class anak bisa mengakses property
+dan method class induk karena class anak mewarisi 
+sifat-sifat dari class induk. Namun, sebaliknya tidak 
+bisa, yaitu class induk tidak bisa mengakses property dan
+method class anak karena class anak tidak mewarisi sifat-sifat 
+dari class induk.
